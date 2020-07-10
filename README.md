@@ -1,6 +1,6 @@
 # sleep
-O sleep se trata de um app de analise de dados do comportamento físico durante o sono(respiração, batimentos cardiaco, pressão etc..)
-feito com python usando a lib streamlit
+O sleep se trata de um app de analise de dados do comportamento de físico durante o sono (respiração, batimentos cardiaco, pressão etc..)
+que foi catalogado usando pulseira mi band 4. O aplicação foi feita em python usando a lib streamlit
 
 ### Como executar
 ```
