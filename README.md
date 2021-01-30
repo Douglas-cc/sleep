@@ -25,7 +25,6 @@ Windows
 
 ## Como executar localmente?
 ```
-baixe o repositório e execute no terminal: 
 streamlit run sleep.py
 
 ```
