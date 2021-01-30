@@ -1,6 +1,6 @@
 # sleep
 
-O Sleep-App se trata de uma ferramenta de analise de dados do comportamento do corpo durante o sono (respiração, batimentos cardíaco, pressão etc..) que foi catalogado usando pulseira mi band 4. A ferramenta foi desenvolvida usando lib streamlit que transforma scripts de dados Python em aplicativos web compartilháveis. 
+O Sleep-App se trata de uma ferramenta de analise de dados do comportamento do corpo durante o sono (respiração, batimentos cardíaco, pressão etc..) que foi catalogado com Xiaomi Mi Band 4. A ferramenta foi desenvolvida usando lib streamlit que transforma scripts de dados Python em aplicativos web compartilháveis. 
 
 ## Requisitos
 
