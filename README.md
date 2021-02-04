@@ -28,5 +28,5 @@ Windows
 streamlit run sleep.py
 
 ```
-## Confira o resultado no link aplicação:
+## Confira o resultado no link:
 https://sleep42.herokuapp.com/?fbclid=IwAR3furqoeCr0SGZjg2JGEJnwsqORdJAyJrHdbOTSy5wXi95XvI3rg1OnhhU
